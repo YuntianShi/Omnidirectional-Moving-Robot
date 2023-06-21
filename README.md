@@ -21,48 +21,55 @@ This is a course design from Intelligent Electronics Creators (First Semester) a
 
 &emsp;&emsp;总之，本项目从现实入手，关注在全球疫情下的行业技术问题，结合未来前景分析，通过对机械、计算机、微电子、自动化领域知识的运用，将创意转换为产品，在三名成员和指导老师的共同努力之下，顺利完成了课程任务。
 
+&emsp;&emsp;最终本项目在学校组织的火星创客比赛中荣获二等奖。 
+
 &emsp;&emsp;接下来是一些项目图片展示：  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/overall.jpg)   
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/3Ddesign.jpg)   
 
 <p align="center">
-图1 总体功能图
+图1 设计概念图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/decomposition.png)  
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/bomb.png)  
 
 <p align="center">
-图2 功能分解图
+图2 爆炸分解图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/raw_design.jpg)   
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/2D.jpg)   
 
 <p align="center">
-图3 设计概念图
+图3 2D工程图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/3D1.jpg)  
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/function.png)  
 
 <p align="center">
-图4 3D建模图1
+图4 功能流程图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/3D2.jpg)   
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/real.png)   
 
 <p align="center">
-图5 3D建模图2
+图5 实物图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/Assemble.jpg)   
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/test.jpg)   
 
 <p align="center">
-图6 装配图
+图6 测试图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/ADAM.jpg)   
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/appcontroller.png)   
 
 <p align="center">
-图7 ADAM分析图
+图7 APP控制界面
 </p>  
 
+![iamge](https://github.com/YuntianShi/Omnidirectional-Moving-Robot/blob/main/appinventor.png)   
+
+<p align="center">
+图8 APPInventor
+</p>  
 
